@@ -10,6 +10,10 @@ heroImage: /tbase-clinic-600-314.jpg
   <p align='center'>
    <a href="https://berlinopensource.de/">Berlin goes Open Source</a>
    </p>
+
+<a href="https://i.redd.it/">
+    <img alt="You love open source, right?" src="https://i.redd.it/8lcewc38osr71.jpg" width=60% height=40%>
+      </a>&nbsp;&nbsp;
 </h2>
 
 <p align='center'>
@@ -21,13 +25,6 @@ heroImage: /tbase-clinic-600-314.jpg
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-
-<p align='center'>
-<a href="https://i.redd.it/">
-    <img alt="You love open source, right?" src="https://i.redd.it/8lcewc38osr71.jpg">
-      </a>&nbsp;&nbsp;
-</p>
-
 
 <!-- ## TBase - Wake me up, if you’re Open Source
 
