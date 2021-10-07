@@ -4,7 +4,7 @@ Deployment (Only a new version executes the action)
 Step 1. git pull
 =====================
 
-Step 2. Set a log msg
+npStep 2. Set a log msg
 =====================
 
 Step 3. Commit
