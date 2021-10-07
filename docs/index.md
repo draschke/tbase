@@ -22,6 +22,13 @@ heroImage: /tbase-clinic-600-314.jpg
   </a>&nbsp;&nbsp;
 </p>
 
+<p align='center'>
+<a href="https://i.redd.it/">
+    <img alt="You love open source, right?" src="https://i.redd.it/8lcewc38osr71.jpg">
+      </a>&nbsp;&nbsp;
+</p>
+
+
 <!-- ## TBase - Wake me up, if you’re Open Source
 
 [Berlin goes Open Source](https://berlinopensource.de/)
