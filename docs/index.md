@@ -2,23 +2,23 @@
 # sidebarDepth: 3
 home: true                 
 heroImage: /tbase-clinic-600-314.jpg
-heroText: TBase
-tagline:  A clinical platform build with SAP HANA XSA
+heroText: TBase a medical clinical research platform
+tagline: build with SAP HANA XSA
 ---
 
 
 <!-- <h2 align='center'> -->
   
   <p align='center'>
-   TBase - Who wants free open source software?
+   TBase, who wants free open source software?
    </p>
   <p align='center'>
 <a href="https://i.redd.it/">
-    <img alt="You love open source, right?" src="https://i.redd.it/8lcewc38osr71.jpg" width=40% height=10%>
+    <img alt="You love open source, right?" src="https://i.redd.it/8lcewc38osr71.jpg" width=60% height=60%>
       </a>&nbsp;&nbsp;
 </p>
   <p align='center'>
-   TBase - Wake me up, if you’re Open Source!
+   Wake me up, if you’re Open Source!
    </p>
   <p align='center'>
    <a href="https://berlinopensource.de/">Berlin goes Open Source</a>

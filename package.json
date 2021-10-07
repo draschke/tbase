@@ -1,7 +1,7 @@
 {
   "name": "tbase",
   "version": "1.0.6",
-  "description": "TBase - A Medical Clinical Research Platform build with SAP HANA XSA",
+  "description": "TBase - a medical clinical research platform build with SAP HANA XSA",
   "main": "index.js",
   "dependencies": {
     "vitepress": "^0.16.1"
@@ -10,8 +10,7 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "docs:serve": "vitepress serve docs"
   },
   "repository": {
     "type": "git",
@@ -28,16 +27,16 @@
     "tbase sap hana clinical app",
     "tbase sap clinical app",
     "tbase sap xsa clinical app",
-    "tbase klinische Plattform",
+    "tbase klinische plattform",
     "tbase digitale app",
-    "tbase sap hana xsa-Anwendung",
-    "tbase sap hana klinische Plattform",
-    "tbase berlin klinische Plattform",
+    "tbase sap hana xsa",
+    "tbase sap hana klinische plattform",
+    "tbase berlin klinische plattform",
     "tbase berlin klinik app",
     "tbase berlin app",
-    "tbase sap hana klinische App",
-    "tbase sap klinische App",
-    "tbase sap xsa klinische App",
+    "tbase sap hana klinische app",
+    "tbase sap klinische app",
+    "tbase sap xsa klinische app",
     "tbase sapui5",
     "tbase sap",
     "tbase fiori",
