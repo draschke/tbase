@@ -7,7 +7,7 @@ let email = "draschke@googlemail.com";
 
 module.exports = {
   lang: "en-US",
-  title: "TBase - a medical clinical research platform build with SAP HANA XSA",
+  title: "TBase a clinical platform build with SAP HANA",
   description:
     "TBase - a medical clinical research platform build with SAP HANA XSA",
   // base: "/tbase/",
