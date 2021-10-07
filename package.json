@@ -1,6 +1,6 @@
 {
   "name": "tbase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TBase - A Medical Clinical Research Platform build with SAP HANA XSA",
   "main": "index.js",
   "dependencies": {
@@ -37,7 +37,7 @@
     "tbase berlin app",
     "tbase sap hana klinische App",
     "tbase sap klinische App",
-    "tbase sap xsa klinische App",    
+    "tbase sap xsa klinische App",
     "tbase sapui5",
     "tbase sap",
     "tbase fiori",
