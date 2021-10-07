@@ -34,6 +34,12 @@ git push --follow-tags
 
 
 
+Step 6. Custom domain
+=====================
+tbase.de --> save
+https://github.com/draschke/tbase/settings/pages
+
+
 Issue: npm ERR! Git working directory not clean.
 ======
 https://github.com/npm/npm/issues/6879
