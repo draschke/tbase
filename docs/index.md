@@ -1,7 +1,7 @@
 ---
 sidebarDepth: 3
 home: true                 
-heroImage: /hiddensee_600_314.jpg
+heroImage: /tbase-clinic-600-314.jpg
 ---
 
 # Kick off your SAP HANA application development environment (XSA & CF) by leverage this [VS Code Dev Container](https://github.com/draschke/vsc-sap-hana-mta-dev-env-node16x/tree/master/.devcontainer)
