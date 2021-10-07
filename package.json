@@ -1,0 +1,51 @@
+{
+  "name": "tbase",
+  "version": "1.0.1",
+  "description": "TBase - A Medical Clinical Research Platform build with SAP HANA XSA",
+  "main": "index.js",
+  "dependencies": {
+    "vitepress": "^0.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draschke/tbase.git"
+  },
+  "keywords": [
+    "tbase berlin charite",
+    "tbase clinical platform",
+    "tbase sap hana xsa application",
+    "tbase sap hana clinical platform",
+    "tbase berlin clinical platform",
+    "tbase berlin clinical app",
+    "tbase berlin app",
+    "tbase sap hana clinical app",
+    "tbase sap clinical app",
+    "tbase sap xsa clinical app",
+    "tbase klinische Plattform",
+    "tbase digitale app",
+    "tbase sap hana xsa-Anwendung",
+    "tbase sap hana klinische Plattform",
+    "tbase berlin klinische Plattform",
+    "tbase berlin klinik app",
+    "tbase berlin app",
+    "tbase sap hana klinische App",
+    "tbase sap klinische App",
+    "tbase sap xsa klinische App",    
+    "tbase sapui5",
+    "tbase sap",
+    "tbase fiori",
+    "tbase hospital"
+  ],
+  "author": "Dirk Raschke",
+  "bugs": {
+    "url": "https://github.com/draschke/tbase.git/issues"
+  },
+  "homepage": "https://github.com/draschke/tbase.git#readme"
+}
