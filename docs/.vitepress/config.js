@@ -10,7 +10,7 @@ module.exports = {
   title: "TBase - a medical clinical research platform build with SAP HANA XSA",
   description:
     "TBase - a medical clinical research platform build with SAP HANA XSA",
-  base: "/tbase/",
+  // base: "/tbase/",
   head: [
     // ["link", { rel: "icon", href: `/assets/favicon.ico` }],
     ["meta", { name: "theme-color", content: color }],
