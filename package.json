@@ -43,8 +43,5 @@
     "tbase hospital"
   ],
   "author": "Dirk Raschke",
-  "bugs": {
-    "url": "https://github.com/draschke/tbase.git/issues"
-  },
   "homepage": "https://github.com/draschke/tbase.git#readme"
 }

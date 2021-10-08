@@ -10,18 +10,18 @@ tagline: build with SAP HANA XSA
 <!-- <h2 align='center'> -->
   
   <p align='center'>
-   TBase, who wants free open source software?
+   TBase, thats for you.
    </p>
   <p align='center'>
 <a href="https://i.redd.it/">
-    <img alt="You love open source, right?" src="https://i.redd.it/8lcewc38osr71.jpg" width=60% height=60%>
+    <img alt="You love open source, right?" src="https://i.redd.it/8lcewc38osr71.jpg" width=80% height=80%>
       </a>&nbsp;&nbsp;
 </p>
   <p align='center'>
    Wake me up, if you’re Open Source!
    </p>
   <p align='center'>
-   <a href="https://berlinopensource.de/">Berlin goes Open Source</a>
+   <a href="https://berlinopensource.de/warum-open-source/">Berlin goes Open Source</a>
    </p>
 <!-- </h2> -->
 

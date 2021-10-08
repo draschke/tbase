@@ -54,16 +54,16 @@ module.exports = {
     repo: "draschke/tbase",
     docsDir: "docs",
 
-    editLinks: true,
-    editLinkText: "Edit this page on GitHub",
-    lastUpdated: "Last Updated",
+    editLinks: false,
+    // editLinkText: "Edit this page on GitHub",
+    // lastUpdated: "Last Updated",
 
     nav: [
-      { text: "Home", link: "/" },
-      {
-        text: "Release Notes",
-        link: "https://github.com/draschke/tbase/releases",
-      },
+      { text: "Home", link: "/" }
+      // {
+      //   text: "Release Notes",
+      //   link: "https://github.com/draschke/tbase/releases",
+      // },
     ],
 
   },
