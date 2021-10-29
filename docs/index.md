@@ -10,7 +10,7 @@ tagline: build with SAP HANA XSA
 <!-- <h2 align='center'> -->
   
   <p align='center'>
-   TBase, thats for you.
+   TBase, who is this?
    </p>
   <p align='center'>
 <a href="https://i.redd.it/">
@@ -18,7 +18,7 @@ tagline: build with SAP HANA XSA
       </a>&nbsp;&nbsp;
 </p>
   <p align='center'>
-   Wake me up, if you’re Open Source!
+  I'm really so sorry, I'm sure that TBase would have helped so many people around the world fighting Covid. Wake me up, if you’re Open Source!
    </p>
   <p align='center'>
    <a href="https://berlinopensource.de/warum-open-source/">Berlin goes Open Source</a>
