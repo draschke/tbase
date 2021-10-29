@@ -18,7 +18,7 @@ tagline: build with SAP HANA XSA
       </a>&nbsp;&nbsp;
 </p>
   <p align='center'>
-  I'm really so sorry, I'm sure that TBase would have helped so many people around the world fighting Covid. Wake me up, if you’re Open Source!
+  The world needs more free to use and open source platforms helping people around the world fighting Covid. And I'm so sorry we didn't!
    </p>
   <p align='center'>
    <a href="https://berlinopensource.de/warum-open-source/">Berlin goes Open Source</a>
