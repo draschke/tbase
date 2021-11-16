@@ -16,63 +16,17 @@ node ➜ /workspaces/tbase (master)
 $ npm version patch
 v1.0.4
 
-  Check the packages 
-  ===================
-  package.json was adjusted automatically 
-    "name": "my-sap-exercises-with-vscode",
-    "version": "1.0.4",
-  Check the tags 
+ Check the tags 
   ===================
   $ git tag
   v1.0.0
   v1.0.2
 
-
 Step 5. Push to master 
 =====================
 git push --follow-tags
-
-
 
 Step 6. Custom domain
 =====================
 tbase.de --> save
 https://github.com/draschke/tbase/settings/pages
-
-
-Issue: npm ERR! Git working directory not clean.
-======
-https://github.com/npm/npm/issues/6879
-1. Solution
-======
-npm version  --no-git-tag-version
-npm version --force --no-git-tag-version
-2. Solution
-======
-git add . && git commit
-
-
-Issue: Beim manuellen Starten der Action stand wieder "refs/heads/master" als release
-======
-Solution zum Entfernen: 
-======
-remote
-$ git push origin :refs/tags/refs/heads/master
-local
-$ git tag -d refs/heads/master
-
-Issue: 
-======
-error: src refspec refs/heads/main matches more than one.
-node ➜ /workspaces/vsc-sap-hana-mta-dev-env-node14x (main) $ git tag
-refs/heads/main
-v1.0.1
-
-Solution:
-======
-delete the local tag
-git tag -d refs/heads/main
-
-node ➜ /workspaces/vsc-sap-hana-mta-dev-env-node14x (main) $ git tag
-v1.0.1
-
