@@ -1,4 +1,4 @@
-# TBase - a medical clinical research platform build with SAP HANA XSA
+# TBase - a medical clinical research platform built with SAP HANA XSA
 
   <p align='center'>
    TBase, who wants free open source software?

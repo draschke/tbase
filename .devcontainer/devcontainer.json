@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/vscode-remote/devcontainer.json or this file's README at:
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.101.0/containers/typescript-node-12
 {
-  "name": "TBase - a medical clinical research platform build with SAP HANA XSA",
+  "name": "TBase - a medical clinical research platform built with SAP HANA XSA",
   "dockerFile": "Dockerfile",
   // Set *default* container specific settings.json values on container create.
   // The default user settings file is located here:

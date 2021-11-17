@@ -3,7 +3,7 @@
 home: true                 
 heroImage: /tbase-clinic-600-314.jpg
 heroText: TBase a medical clinical research platform
-tagline: build with SAP HANA XSA
+tagline: built with SAP HANA XSA
 ---
 
 

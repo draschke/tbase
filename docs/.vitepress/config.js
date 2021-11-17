@@ -1,15 +1,15 @@
 let ogprefix = "og: http://ogp.me/ns#";
-let title = "TBase - a medical clinical research platform build with SAP HANA XSA";
-let description = "TBase - a medical clinical research platform build with SAP HANA XSA";
+let title = "TBase - a medical clinical research platform built with SAP HANA XSA";
+let description = "TBase - a medical clinical research platform built with SAP HANA XSA";
 let color = "#f42525";
 let author = "Dirk Raschke";
 let email = "draschke@googlemail.com";
 
 module.exports = {
   lang: "en-US",
-  title: "TBase a clinical platform build with SAP HANA",
+  title: "TBase a clinical platform built with SAP HANA",
   description:
-    "TBase - a medical clinical research platform build with SAP HANA XSA",
+    "TBase - a medical clinical research platform built with SAP HANA XSA",
   // base: "/tbase/",
   head: [
     // ["link", { rel: "icon", href: `/assets/favicon.ico` }],
