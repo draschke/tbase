@@ -19,7 +19,18 @@ tagline: built with SAP HANA XSA
   <p align='center'>
   The world needs more free to use and open-source platforms helping people around the world fighting diseases like Covid. You could have helped so many people out there with your platform. But I'm so sorry you didn't!
 I tried to convince you for a very long time, but you didn't listen. Now I'm going and hope that you'll change your mind one day. Good luck!
+   </p>&nbsp;&nbsp;
+
+
+<p align='center'>
+      <a href="https://publiccode.eu/de/">"PUBLIC MONEY, PUBLIC CODE"</a>
+    - a campaign you should keep an eye on!
    </p>
+
+  <!-- <p align='center'>
+     <a href="https://publiccode.eu/de/">Public Money, Public Code</a>
+   </p> -->
+
   <p align='center'>
    <a href="https://berlinopensource.de/warum-open-source/">Berlin goes Open Source</a>
    </p>
