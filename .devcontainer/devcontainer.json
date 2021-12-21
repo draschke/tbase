@@ -15,16 +15,16 @@
     "shellformat.flag": "-i=2 -bn -ci -sr",
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
-    "editor.formatOnType": true,
-    "[html]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[sql]": {
-      "editor.defaultFormatter": "mtxr.sqltools"
-    },
-    "[gitignore]": {
-      "editor.defaultFormatter": "codezombiech.gitignore"
-    }
+    "editor.formatOnType": true
+    // "[html]": {
+    //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    // "[sql]": {
+    //   "editor.defaultFormatter": "mtxr.sqltools"
+    // },
+    // "[gitignore]": {
+    //   "editor.defaultFormatter": "codezombiech.gitignore"
+    // }
   },
   "extensions": [
     "alexcvzz.vscode-sqlite",
@@ -32,13 +32,11 @@
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
     "codestackr.codestackr-theme",
-    "coenraads.bracket-pair-colorizer-2",
     "cschleiden.vscode-github-actions",
     "davidanson.vscode-markdownlint",
     "dbaeumer.vscode-eslint",
     "donjayamanne.githistory",
     "dotjoshjohnson.xml",
-    "eamodio.gitlens",
     "eamodio.gitlens",
     "eg2.vscode-npm-script",
     "esbenp.prettier-vscode",
@@ -70,7 +68,6 @@
     "ms-vscode.js-debug-nightly",
     "ms-vscode.test-adapter-converter",
     "ms-vscode.vscode-github-issue-notebooks",
-    "msjsdiag.debugger-for-chrome",
     "mtxr.sqltools-driver-sqlite",
     "mtxr.sqltools",
     "mutantdino.resourcemonitor",
@@ -78,17 +75,17 @@
     "rangav.vscode-thunder-client",
     "redhat.vscode-commons",
     "redhat.vscode-yaml",
-    "sapos.yeoman-ui",
-    "saposs.sap-hana-driver-for-sqltools",
-    "saposs.vscode-ui5-language-assistant",
-    "saposs.xml-toolkit",
-    "sapse.sap-ux-annotation-modeler-extension",
-    "sapse.sap-ux-application-modeler-extension",
-    "sapse.sap-ux-fiori-tools-extension-pack",
-    "sapse.sap-ux-help-extension",
-    "sapse.sap-ux-service-modeler-extension",
-    "sapse.vsc-extension-sa",
-    "sapse.vscode-cds",
+    // "sapos.yeoman-ui",
+    // "saposs.sap-hana-driver-for-sqltools",
+    // "saposs.vscode-ui5-language-assistant",
+    // "saposs.xml-toolkit",
+    // "sapse.sap-ux-annotation-modeler-extension",
+    // "sapse.sap-ux-application-modeler-extension",
+    // "sapse.sap-ux-fiori-tools-extension-pack",
+    // "sapse.sap-ux-help-extension",
+    // "sapse.sap-ux-service-modeler-extension",
+    // "sapse.vsc-extension-sa",
+    // "sapse.vscode-cds",
     "sdras.night-owl",
     "solarliner.linux-themes",
     "theosun.sap-json-schemas",
