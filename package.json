@@ -1,6 +1,6 @@
 {
   "name": "tbase",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "TBase - a medical clinical research platform build with SAP HANA XSA",
   "main": "index.js",
   "dependencies": {
